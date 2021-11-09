@@ -6,7 +6,7 @@ how to use Git and Github together
 
 ##introduccion
 
-this is example is to show differente
+this is example is to show differente nuevo cambio
 
 ## Purpose
 
